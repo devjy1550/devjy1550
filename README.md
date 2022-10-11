@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjy1550&show_icons=true&theme=radical)
+
+
+
 
 
 
